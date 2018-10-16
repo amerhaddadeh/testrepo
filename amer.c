@@ -2,7 +2,7 @@
 
 void my_vunction()
 {
-	print("ammorti is stupid");
+	print("ammorti is more than stupid");
 }
 
 void main() 
